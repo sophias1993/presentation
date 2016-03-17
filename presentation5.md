@@ -4,11 +4,10 @@
 
 
 
-Introduction
-================
-
 Generational Economics Question 1
 ================
+
+------------------------------------------------------
 
 - Question 1: The "golden rule" is the level at which steady-state consumption is at a maximum, given the parameters of the model. Steady state consumption is?
 
@@ -19,12 +18,8 @@ Answer question 1
 
 	$$c^* = (1-s^*)\cdot f[k^*(s^*)] = f[k^*(s^*)]  - s^*f[k^*(s^*)]$$
     Where, $$ 0<s^*<1$$
+	
 
----------------------------------------------------------
-	We also have that, at the steady state where capital is constant
-	$$s^*f[k^*(s^*)] = \delta k^*(s^*)$$
-
---------------------------------------------------------------------
 	By substituting the optimal saving rate into the optimal consumption rate we get,
 	$$\frac {\partial c^*}{\partial s^*} = f'[k^*(s^*)]\cdot \frac {{\rm d}k^*}{{\rm d}s^*} - \delta \frac {{\rm d}k^*}{{\rm d}s^*} =0$$
 	$$ f'[k^*(s^*)]\ - \delta \big)\frac {{\rm d}k^*}{{\rm d}s^*} =0 \implies f'[k^*(s^*)] = \delta$$
@@ -37,7 +32,6 @@ Golden Rule: illustriation
 
 -The figure shows the "Golden Rule" where consumption is maximized.
 
--------------------------------------------------------------
 ![](http://www.lidderdale.com/econ/311/gifs/Fig3-9.gif)
  
 -----------------------------------------------------------------
@@ -46,6 +40,7 @@ Environmental Economics
 =================
 
 Emissions and Damages to the environment
+
 -------------------------------------------------------------------
 
 -We consider 2 emission sources $M_1$ and $M_2$ along with  three receptors $Q_1,Q_2,Q_3$ where the emissions are deposited and damage is generated. We also include $a_{ji}$, the fraction of emssion transfered from source $i$ to receptor $j$.  This is represented in vector matrix notation as $Q=AM$.
@@ -76,12 +71,11 @@ We take the partial derivative of $D(Q_j)$ for $j = 1,2,3$ with repect to $M_1$ 
 
 ------------------------------------------------------------------
 The final Answer
+
 -----------------------------------------------------------------------
 Total marginal damage is simply the sum of the above, so we have total marginal damage of $M_1$: $0.375M_1 + 0.1M_2$.
 
--------------------------------------------------
-
-
+---------------------------------------------------------------------
 ![](http://1.bp.blogspot.com/-RDo5BL14ptI/TwbF_pKLFDI/AAAAAAAAAjU/5EUPvgGaL-k/s1600/Pollution+in+China+smog.jpg)
 
 
