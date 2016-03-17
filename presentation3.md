@@ -16,6 +16,8 @@ Answer question 1
 ----------
 
 The "golden rule" is the level at which steady-state consumption is at a maximum, given the parameters of the model. Steady state consumption is
+
+----------------------------------------------------------------------------
 	
 $$c^* = (1-s^*)\cdot f[k^*(s^*)] = f[k^*(s^*)]  - s^*f[k^*(s^*)]$$
 Where, $$ 0<s^*<1$$
@@ -27,9 +29,7 @@ By substituting the optimal saving rate into the optimal consumption rate we get
 $$\frac {\partial c^*}{\partial s^*} = f'[k^*(s^*)]\cdot \frac {{\rm d}k^*}{{\rm d}s^*} - \delta \frac {{\rm d}k^*}{{\rm d}s^*} =0$$
 $$ f'[k^*(s^*)]\ - \delta \big)\frac {{\rm d}k^*}{{\rm d}s^*} =0 \implies f'[k^*(s^*)] = \delta$$
 
------------------------------------------------------------------------
 
-Golden Rule: illustriation 
 --------------------------------------------------------------
 ![](http://cdn.economicsdiscussion.net/wp-content/uploads/2015/11/clip_image00313.jpg)
 ----------------------------------------------------------------------
