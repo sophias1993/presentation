@@ -32,12 +32,16 @@ By substituting the optimal saving rate into the optimal consumption rate we get
 $$\frac {\partial c^*}{\partial s^*} = f'[k^*(s^*)]\cdot \frac {{\rm d}k^*}{{\rm d}s^*} - \delta \frac {{\rm d}k^*}{{\rm d}s^*} =0$$
 $$ f'[k^*(s^*)]\ - \delta \big)\frac {{\rm d}k^*}{{\rm d}s^*} =0 \implies f'[k^*(s^*)] = \delta$$
 
-----------------------------------------------------------------------------
+------------------------------------------------------------------
 The Golden rule: an illustration
-![](http://www.lidderdale.com/econ/311/gifs/Fig3-6.gif)
-----------------------------------------------------------------------
 
-Environmental Economics
+
+---------------------------------------------------------------------
+
+![](https://snbchf.com/wp-content/uploads/2012/06/Golden-Rule-of-Saving.png)
+--------------------------------------
+
+Part B: Environmental Economics
 =================
 
 Emissions and Damages to the environment
