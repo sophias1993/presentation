@@ -4,15 +4,18 @@
 
 
 
-Generational Economics Question 1
+Part A: Generational Economics
 ================
 
 ------------------------------------------------------
 
-Question 1: The "golden rule" is the level at which steady-state consumption is at a maximum, given the parameters of the model. Steady state consumption is?
+Question 1:
+
+ The "golden rule" is the level at which steady-state consumption is at a maximum, given the parameters of the model. Steady state consumption is?
 
 --------------------------------------------------------------
 Answer question 1
+
 ----------
 
 The "golden rule" is the level at which steady-state consumption is at a maximum, given the parameters of the model. Steady state consumption is
@@ -29,13 +32,9 @@ By substituting the optimal saving rate into the optimal consumption rate we get
 $$\frac {\partial c^*}{\partial s^*} = f'[k^*(s^*)]\cdot \frac {{\rm d}k^*}{{\rm d}s^*} - \delta \frac {{\rm d}k^*}{{\rm d}s^*} =0$$
 $$ f'[k^*(s^*)]\ - \delta \big)\frac {{\rm d}k^*}{{\rm d}s^*} =0 \implies f'[k^*(s^*)] = \delta$$
 
-
---------------------------------------------------------------
-The golden rule: an illustration
-
-
-
-![](http://cdn.economicsdiscussion.net/wp-content/uploads/2015/11/clip_image00313.jpg)
+----------------------------------------------------------------------------
+The Golden rule: an illustration
+![](http://www.lidderdale.com/econ/311/gifs/Fig3-6.gif)
 ----------------------------------------------------------------------
 
 Environmental Economics
