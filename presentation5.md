@@ -9,21 +9,21 @@ Generational Economics Question 1
 
 ------------------------------------------------------
 
-- Question 1: The "golden rule" is the level at which steady-state consumption is at a maximum, given the parameters of the model. Steady state consumption is?
+Question 1: The "golden rule" is the level at which steady-state consumption is at a maximum, given the parameters of the model. Steady state consumption is?
 
 --------------------------------------------------------------
 Answer question 1
 ----------
 
-
-	$$c^* = (1-s^*)\cdot f[k^*(s^*)] = f[k^*(s^*)]  - s^*f[k^*(s^*)]$$
-    Where, $$ 0<s^*<1$$
+The "golden rule" is the level at which steady-state consumption is at a maximum, given the parameters of the model. Steady state consumption is
 	
-
-	By substituting the optimal saving rate into the optimal consumption rate we get,
-	$$\frac {\partial c^*}{\partial s^*} = f'[k^*(s^*)]\cdot \frac {{\rm d}k^*}{{\rm d}s^*} - \delta \frac {{\rm d}k^*}{{\rm d}s^*} =0$$
-	$$ f'[k^*(s^*)]\ - \delta \big)\frac {{\rm d}k^*}{{\rm d}s^*} =0 \implies f'[k^*(s^*)] = \delta$$
-
+$$c^* = (1-s^*)\cdot f[k^*(s^*)] = f[k^*(s^*)]  - s^*f[k^*(s^*)]$$
+Where, $$ 0<s^*<1$$
+We also have that, at the steady state where capital is constant
+$$s^*f[k^*(s^*)] = \delta k^*(s^*)$$
+By substituting the optimal saving rate into the optimal consumption rate we get,
+$$\frac {\partial c^*}{\partial s^*} = f'[k^*(s^*)]\cdot \frac {{\rm d}k^*}{{\rm d}s^*} - \delta \frac {{\rm d}k^*}{{\rm d}s^*} =0$$
+$$ f'[k^*(s^*)]\ - \delta \big)\frac {{\rm d}k^*}{{\rm d}s^*} =0 \implies f'[k^*(s^*)] = \delta$$
 
 -----------------------------------------------------------------------
 
@@ -72,10 +72,10 @@ We take the partial derivative of $D(Q_j)$ for $j = 1,2,3$ with repect to $M_1$ 
 ------------------------------------------------------------------
 The final Answer
 
------------------------------------------------------------------------
 Total marginal damage is simply the sum of the above, so we have total marginal damage of $M_1$: $0.375M_1 + 0.1M_2$.
 
 ---------------------------------------------------------------------
 ![](http://1.bp.blogspot.com/-RDo5BL14ptI/TwbF_pKLFDI/AAAAAAAAAjU/5EUPvgGaL-k/s1600/Pollution+in+China+smog.jpg)
+--------------------------------------------------------------------------
 
 
