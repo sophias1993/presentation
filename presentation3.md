@@ -31,6 +31,10 @@ $$ f'[k^*(s^*)]\ - \delta \big)\frac {{\rm d}k^*}{{\rm d}s^*} =0 \implies f'[k^*
 
 
 --------------------------------------------------------------
+The golden rule: an illustration
+
+
+
 ![](http://cdn.economicsdiscussion.net/wp-content/uploads/2015/11/clip_image00313.jpg)
 ----------------------------------------------------------------------
 
