@@ -21,6 +21,8 @@ $$c^* = (1-s^*)\cdot f[k^*(s^*)] = f[k^*(s^*)]  - s^*f[k^*(s^*)]$$
 Where, $$ 0<s^*<1$$
 We also have that, at the steady state where capital is constant
 $$s^*f[k^*(s^*)] = \delta k^*(s^*)$$
+
+---------------------------------------------------------------
 By substituting the optimal saving rate into the optimal consumption rate we get,
 $$\frac {\partial c^*}{\partial s^*} = f'[k^*(s^*)]\cdot \frac {{\rm d}k^*}{{\rm d}s^*} - \delta \frac {{\rm d}k^*}{{\rm d}s^*} =0$$
 $$ f'[k^*(s^*)]\ - \delta \big)\frac {{\rm d}k^*}{{\rm d}s^*} =0 \implies f'[k^*(s^*)] = \delta$$
@@ -28,13 +30,9 @@ $$ f'[k^*(s^*)]\ - \delta \big)\frac {{\rm d}k^*}{{\rm d}s^*} =0 \implies f'[k^*
 -----------------------------------------------------------------------
 
 Golden Rule: illustriation 
-===============
------------------------------------------------------------------
+--------------------------------------------------------------
 ![](http://cdn.economicsdiscussion.net/wp-content/uploads/2015/11/clip_image00313.jpg)
- 
--The figure shows the "Golden Rule" where consumption is maximized.
-
------------------------------------------------------------------
+----------------------------------------------------------------------
 
 Environmental Economics
 =================
